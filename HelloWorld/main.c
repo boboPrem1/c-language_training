@@ -5,6 +5,6 @@ int main()
 {
     //printf("\tBonjour\n");
     //printf("Bonjour\nAu revoir\n");
-    printf("Bonjour Gérard ...");
+    printf("Bonjour Gerard ...");
     return 0;
 }
