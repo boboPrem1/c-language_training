@@ -1,3 +1,4 @@
+// Include infos about the standard input/output librairie
 #include <stdio.h>
 #include <stdlib.h>
 
